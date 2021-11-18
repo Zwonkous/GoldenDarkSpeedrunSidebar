@@ -15,4 +15,7 @@ You can now change between GoldenEye and Perfect Dark at will, depending on whic
 ### Easier Management for your data.
 GDSS will allow you to manage your level and application data easily.
 
+### GoldenDark Online
+See the grind times of other GDSS users, interact with them and sync your data across other instances of GDSS that you're logged into.
+
 And much more!
