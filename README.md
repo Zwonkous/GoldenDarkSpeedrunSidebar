@@ -1,6 +1,10 @@
 # GoldenDark Speedrun Sidebar
 This project is a replacement of [GeSSA](https://github.com/LostMyTriforce/gessa/).
 
+
+### The application is currently in development and is not ready yet.
+---
+
 GDSS is an OBS browser element that displays level data and your times to your viewers when speedrunning the games Perfect Dark & GoldenEye. The sidebar is intergated into the app (the controller) and can be configured to your needs.
 
 ### A more user friendly layout.
