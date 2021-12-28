@@ -10,6 +10,9 @@ GDSS is an OBS browser element that displays level data and your times to your v
 ### A more user friendly layout.
 GDSS has a more sleeker and modern looking UI. There's less of the clutter and more consitency and customisability.
 
+### Dedicate a machine for the controller.
+GDSS allows you to broadcast the controller to your home network - allowing you to use the sidebar on a separate machine.[^1]
+
 ### Redesigned from the ground up.
 GDSS is more optimised under the hood to help keep the app running smoother than ever. It's even smaller in size!
 
@@ -19,7 +22,13 @@ You can now change between GoldenEye and Perfect Dark at will, depending on whic
 ### Easier Management for your data.
 GDSS will allow you to manage your level and application data easily.
 
+### Effective against the defective.
+GDSS automatically backs up and checks for issue with your save data where your times are stored. It will also replace corrupted files where necessary.
+
 ### GoldenDark Online
-See the grind times of other GDSS users, interact with them and sync your data across other instances of GDSS that you're logged into.
+See the grind times of other GDSS users, interact with them and sync your data across other instances of GDSS that you're logged into.[^2]
 
 And much more!
+
+[^1]: Your sidebar will be visible to people on your home network if they know your device IP and port number for the controller. Internet users cannot see this. Nobody can alter your sidebar data.
+[^2]: GoldenDark Online won't be available on GoldenDark's inital release.
