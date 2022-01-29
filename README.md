@@ -1,4 +1,4 @@
-# GoldenDark Speedrun Sidebar
+# GoldenDark Speedrun Sidebar (GeSSA 2)
 This project is a replacement of [GeSSA](https://github.com/LostMyTriforce/gessa/).
 
 
