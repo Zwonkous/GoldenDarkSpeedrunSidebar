@@ -25,6 +25,9 @@ GoldenDark will allow you to manage your level and application data easily.
 ### Effective against the defective.
 GoldenDark automatically backs up and checks for issue with your save data where your times are stored. It will also replace corrupted files where necessary.
 
+### One size fits all.
+GoldenDark's Sidebar can adjust accordingly to any size you give it.
+
 ### GoldenDark Online
 See the grind times of other GoldenDark users, interact with them and sync your data across other instances of GoldenDark that you're logged into.[^2]
 
