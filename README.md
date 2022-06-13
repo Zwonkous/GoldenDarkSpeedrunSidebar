@@ -14,10 +14,10 @@ If you run a studio where someone else will manage your sidebar, or if you use a
 ### Redesigned from the ground up.
 GoldenDark is more optimised under the hood to help keep the app running smoother than ever. It's even smaller in size!
 
-### GE and PD in one application.[^3]
+### GE and PD in one application.
 You can now change between GoldenEye and Perfect Dark at will, depending on which game you're speed running. You can even change which edition of GoldenEye you're running, and what system you're playing on.
 
-### Easier Management for your data.
+### Easier Management for your data.[^3]
 GoldenDark will allow you to manage your level and application data easily.
 
 ### Effective against the defective.
