@@ -1,8 +1,6 @@
 # GoldenDark Speedrun Sidebar (GeSSA 2)
 This project is a replacement of [GeSSA](https://github.com/LostMyTriforce/gessa/).
 
-
-### The application is currently in development and is not ready yet.
 ---
 
 GoldenDark is an OBS browser element that displays level data and your times to your viewers when speedrunning the games Perfect Dark & GoldenEye. The sidebar is intergated into the app (the controller) and can be configured to your needs.
@@ -16,7 +14,7 @@ If you run a studio where someone else will manage your sidebar, or if you use a
 ### Redesigned from the ground up.
 GoldenDark is more optimised under the hood to help keep the app running smoother than ever. It's even smaller in size!
 
-### GE and PD in one application.
+### GE and PD in one application.[^3]
 You can now change between GoldenEye and Perfect Dark at will, depending on which game you're speed running. You can even change which edition of GoldenEye you're running, and what system you're playing on.
 
 ### Easier Management for your data.
@@ -35,3 +33,4 @@ And much more!
 
 [^1]: Your sidebar will be visible to people on your home network if they know your device IP and port number for the controller. Internet users cannot see this. Nobody can alter your sidebar data.
 [^2]: GoldenDark Online won't be available on GoldenDark's initial release.
+[^3]: This feature is not available on initial release.
